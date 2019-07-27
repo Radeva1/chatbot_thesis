@@ -1,0 +1,43 @@
+---
+categories:
+- sales
+
+conversations:
+- - Hi
+  - Hello
+  - Welcome to our website
+- - How are you?
+  - Great! And you?
+- - What are the latest promotions for Hardware items?
+  - If you buy 5 from our switches I you get 50% for the third one!
+- - How much is the general discount for Hardware items?
+  - You will receive an discount of 28% of the price in our website!
+- - Whats the difference between Switch model 23XPIE and model 48USOP?
+  - The model 23XPIE has a POE feature.
+- - What does it POE means?
+  - POE means Power over Ethernet and describes any of several standard or ad-hoc systems which pass electric power along with data on twisted pair Ethernet cabling.
+  - This allows a single cable to provide both data connection and electric power to devices such as wireless access points, IP cameras, and VoIP phones.
+- - How can I order it?
+  - Please log in your personal account and select the product. By selecting the product it will be automatically added to your basket!
+- - Will the discount will be applied?
+  - No worries! The new price after the discount will be calculated automatically.
+- - Whats new on your products?
+  - Do you know about our new cloud managment system, where you can control your devices only with one dashboard?
+- - What else?
+  - We offer a new services for our customers. You have the possibility to injure your device and to get support anytime you want!
+- - Else?
+  - We have new model Access Points! You will receive 18 % discount if you buy them until 25.November!
+- - What else?
+  - We have new model Access Points! You will receive 18 % discount if you buy them until 25.November!
+- - Can I see the latest offers?
+  - Of course, go the navigation bar and click on the section "Offers".
+- - What is the difference between 2,4 GHz and 5 GHz?
+  - The primary differences between the 2.4 GHz and 5 GHz wireless frequencies are range and bandwidth.
+  - 5GHz provides faster data rates at a shorter distance. 2.4GHz offers coverage for farther distances, but may perform at slower speeds.
+- - What is an access point?
+  - The access point is a networking hardware device that allows other Wi-Fi devices to connect to a wired network.
+    The AP usually connects to a router (via a wired network) as a standalone device, but it can also be an integral component of the router itself.
+- - Thank you Robo! You are great!
+  - You are welcome!
+- - Robo, would you give me the contacts of the sales department?
+  - Yes, plese use the following phone number 00847326958 or this email address sales@it.com
