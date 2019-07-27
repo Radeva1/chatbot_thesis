@@ -35,6 +35,18 @@ def get_bot_response():
     return str(bot.get_response(userText))
 
 
+@app.route('/contact')
+def contact():
+    """Renders the contact page."""
+    return render_template('contact.html', title='Contact', year=datetime.now().year, user='Eli')
+
+
+@app.route('/about')
+def about():
+    """Renders the about page."""
+    return render_template('about.html', title='About', year=datetime.now().year, user='Eli')
+
+
 
 if __name__ == "__main__":
     app.run(debug=True)
