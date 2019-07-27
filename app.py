@@ -23,5 +23,11 @@ trainer = ChatterBotCorpusTrainer(bot)
 trainer.train("chatterbot.corpus.english.sales")
 
 
+@app.route('/')
+@app.route('/home')
+def home():
+    return render_template("home.html", year=datetime.now().year)
+
+
 if __name__ == "__main__":
     app.run(debug=True)
